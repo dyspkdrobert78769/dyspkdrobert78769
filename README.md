@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm dyspkdrobert78769
 
-<!--
-**dyspkdrobert78769/dyspkdrobert78769** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎱 🎮 🎾 Interested in tech gadgets 🎱 🎮 🎾
 
-Here are some ideas to get you started:
+## About Me
+🥋 🚵 🎤 🎭 A professional in data science 🥋 🚵 🎤 🎭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎬 🎮 🎰 🎽 A developer in computer vision 🎬 🎮 🎰 🎽
+
+### Fun Facts
+🏒 🚣 🎳 🛹 Interested in technical writing 🏒 🚣 🎳 🛹
+
+---
+🏄 🎳 🏒 🎾 🎧 Thanks for visiting my profile! 🏓 🌈 🎪 🎣 🎽
